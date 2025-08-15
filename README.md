@@ -6,14 +6,14 @@ This project showcases an **interactive Excel dashboard** created using **Pivot 
 
 ## 🔹 Dashboard Preview
 
-[![Click here to view the dashboard preview](Screenshot (141).pdf)
+[![Click here to view the dashboard preview](Preview_dashboarddd.pdf)
 
 ---
 
 ## 📂 Files Included
 
 * [`Excel_Report_1_Data.xlsx`](Excel_DashBoard_Report-2.xlsx) – Interactive dashboard with all pivot tables and charts.
-* [`Preview_Dashboard.pdf`](Screenshot (141).pdf) – PDF preview of the dashboard layout and visuals.
+* [`Preview_Dashboard.pdf`](Preview_dashboarddd.pdf) – PDF preview of the dashboard layout and visuals.
 
 ---
 
