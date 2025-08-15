@@ -70,6 +70,4 @@ I followed a structured process to create a professional dashboard:
 * Dashboard Design
 * Data Analysis & Insights
 
----
 
-If you want, I can also **design a professional GitHub preview image** for this README so your repo looks more attractive when people open it. That way it’ll match the quality of your work.
