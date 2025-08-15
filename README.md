@@ -1,6 +1,4 @@
-Perfect — here’s your **updated README** with the new **Insights from the Data** section so it looks more analytical and professional.
 
----
 
 # 📊 Excel Sales Dashboard – Data Analysis Project
 
