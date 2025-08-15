@@ -6,14 +6,14 @@ This project showcases an **interactive Excel dashboard** created using **Pivot 
 
 ## 🔹 Dashboard Preview
 
-[![Click here to view the dashboard preview](dashboard_preview.png)](Preview_Dashboard.pdf)
+[![Click here to view the dashboard preview](Screenshot (141).pdf)
 
 ---
 
 ## 📂 Files Included
 
-* [`Excel_Report_1_Data.xlsx`](Excel%2BReport%2B1%2BData%20%281%29.xlsx) – Interactive dashboard with all pivot tables and charts.
-* [`Preview_Dashboard.pdf`](Preview_Dashboard.pdf) – PDF preview of the dashboard layout and visuals.
+* [`Excel_Report_1_Data.xlsx`](Excel_DashBoard_Report-2.xlsx) – Interactive dashboard with all pivot tables and charts.
+* [`Preview_Dashboard.pdf`](Screenshot (141).pdf) – PDF preview of the dashboard layout and visuals.
 
 ---
 
@@ -55,7 +55,7 @@ I followed a structured process to create a professional dashboard:
 
 1. **Download the Dashboard**
 
-   * [Download Excel\_Report\_1\_Data.xlsx](Excel%2BReport%2B1%2BData%20%281%29.xlsx)
+   * [Download Excel\_Report\_1\_Data.xlsx](Excel_DashBoard_Report-2.xlsx)
 2. **Open in Microsoft Excel** (preferably Excel 2016 or later).
 3. Use the slicers and filters to explore different aspects of the data.
 
